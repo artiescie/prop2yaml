@@ -9,7 +9,7 @@
 //     Add-on Easy Localization by www.modernalchemy.de (execute Google translate, leaving non-empty cells)
 //     Add-on Java Translations Tool by simon.niederberger (downloads zip of java properties files, to convert to yaml)
  
-// "usage: node prop2yaml.js <path to trans zip file> <output dir>
+// "usage: node prop2yaml.js <path to trans zip file> <output dir>   (output dir ends with "/")
 
 'use strict'
 
