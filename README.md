@@ -1,5 +1,5 @@
 # prop2yaml
-i18n tool based on Google Sheets.  Compatible with e.g. kazupon::vue-i18n
+'i18n tool based on Google Sheets.  Compatible with e.g. kazupon::vue-i18n
 
 // this is "proof of concept" level tool: completes a translation 
 //    workflow based on Google Sheet 
@@ -16,3 +16,4 @@ Create your Google Sheet, add the add-ons Easy Localization, Java Translations T
 Follow Easy Location Layout, try the auto translations
 Run the Java Translations tool to gen prop files and download as zip.
 Run this tool to create the YAML.
+'
